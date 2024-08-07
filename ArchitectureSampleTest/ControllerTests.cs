@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using ArchitectureSample.Application.Delete;
+﻿using ArchitectureSample.Application.Delete;
 using ArchitectureSample.Application.Get;
 using ArchitectureSample.Application.List;
 using ArchitectureSample.Application.Update;
